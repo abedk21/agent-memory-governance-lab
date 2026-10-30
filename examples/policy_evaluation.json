@@ -1,0 +1,14 @@
+{
+  "passed": 8,
+  "total": 8,
+  "cases": {
+    "session_write": true,
+    "tenant_separation": true,
+    "durable_consent": true,
+    "tool_output_blocked": true,
+    "session_separation": true,
+    "forget_isolation": true,
+    "forget_owner": true,
+    "no_secret_storage": true
+  }
+}
